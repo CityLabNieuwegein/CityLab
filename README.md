@@ -17,7 +17,7 @@
 <ul>
     <li>3D-printers (Flashforge 5M Pro, Ultimaker 2+, Wanhoa Duplicator)</li>
     <li>Vinylplotter</li>
-    <li>Lasersnijder</li>
+    <li>Lasersnijder (FabCreator CO2 40Watt)</li>
     <li>Hittepers</li>
     <li>Brother naaimachines</li>
     <li>En nog veel meer materialen</li>
